@@ -20,7 +20,7 @@ To design a functional 3D component that can be used in real-world applications 
 - Autodesk Fusion 360
 
 ## 🖼 Preview
-
+- It is  first project.
 
 ## 👨‍💻 Author
 Subhadeep Mondal
