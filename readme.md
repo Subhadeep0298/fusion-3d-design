@@ -18,7 +18,7 @@ To design a functional 3D component that can be used in real-world applications 
 - Aluminium_Plate
 
 ## 🛠 Tools Used
-- Autodesk Fusion 360
+- Autodesk Fusion 360.
 
 ## 🖼 Preview
 - It is  first project.
