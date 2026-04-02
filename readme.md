@@ -14,7 +14,7 @@ To design a functional 3D component that can be used in real-world applications 
 
 ## 📁 Files Included
 - Assembly.f3z → Complete Fusion 360 design (editable)
-- Assembly.stl → Ready for 3D printing
+- Assembly.stl → Ready for 3D printing.
 - Aluminium_Plate.
 
 ## 🛠 Tools Used
