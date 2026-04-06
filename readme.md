@@ -1,7 +1,7 @@
 # Fusion 360 3D Design
 
 ## 📌 Overview
-This project contains a 3D model designed using Autodesk Fusion 360. The design focuses on structural accuracy, ease of manufacturing, and practical usability.
+This project contains a 3D model. designed using Autodesk Fusion 360. The design focuses on structural accuracy, ease of manufacturing, and practical usability.
 
 ## 🎯 Objective
 To design a functional 3D component that can be used in real-world.applications such as electronics.enclosures / mechanical assemblies.
