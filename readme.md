@@ -7,7 +7,7 @@ This project contains a 3D model. designed using Autodesk Fusion 360. The design
 To design a functional 3D component that can be used in real-world.applications such as electronics.enclosures / mechanical assemblies.
 
 ## 🧩 Design Features
-- Parametric design approach
+- Parametric design approach.
 - Optimized dimensions for stability and strength.
 - Clean and modular structure
 - Suitable for 3D printing and prototyping.
