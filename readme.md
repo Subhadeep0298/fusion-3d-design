@@ -9,7 +9,7 @@ To design a functional 3D component that can be used in real-world.applications 
 ## 🧩 Design Features
 - Parametric design approach.
 - Optimized dimensions for stability and strength.
-- Clean and modular structure
+- Clean and modular structure.
 - Suitable for 3D printing and prototyping.
 
 ## 📁 Files Included
