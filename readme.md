@@ -4,7 +4,7 @@ Here I will upload all my projects.
 This project contains a 3D model. designed using Autodesk Fusion 360. The design focuses on structural accuracy, ease of manufacturing, and practical usability.
 
 ## 🎯 Objective
-To design a functional 3D component that can be used in real-world. Applications such as electronics.enclosures / mechanical assemblies.
+To design a functional 3D component that can be used in real-world. Applications such as electronics.enclosures / Mechanical assemblies.
 
 ## 🧩 Design Features
 - Parametric design approach.
