@@ -1,4 +1,4 @@
-# Fusion 360 3D Design
+## Fusion 360 3D Design
 Here I will upload all my projects.
 ## 📌 Overview
 This project contains a 3D model. designed using Autodesk Fusion 360. The design focuses on structural accuracy, ease of manufacturing, and practical usability.
